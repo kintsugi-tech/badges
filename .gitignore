@@ -25,3 +25,6 @@ scripts/data
 
 # event-specific scripts - only to be committed manually
 scripts/events/*
+
+# vscode settings
+.vscode
